@@ -7,7 +7,7 @@ A simple jewellery e-commerce web application built as a team project using Flas
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: Python with Flask
 - **Templating**: Jinja2
-- **Data Handling**: JSON (for product information)
+- **Data Handling**: JSON (for product information), SQLite3 (for user information)
 - **Local Server**: Flask development server
 
 ## 📁 Folder Overview
